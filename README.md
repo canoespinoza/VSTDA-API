@@ -1,0 +1,1 @@
+This project posts an simple array of To-Do Items to a webpage at localhost:8484. It also adds a post, and deletes a post.
